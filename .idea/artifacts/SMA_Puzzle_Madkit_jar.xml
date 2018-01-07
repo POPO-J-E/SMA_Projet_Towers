@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SMA_Puzzle_Madkit:jar">
+    <output-path>$PROJECT_DIR$/bin/artifacts/SMA_Puzzle_Madkit_jar</output-path>
+    <root id="archive" name="SMA_Puzzle_Madkit.jar">
+      <element id="module-output" name="SMA_Puzzle_Madkit" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/madkit-5.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
