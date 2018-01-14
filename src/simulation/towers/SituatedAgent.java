@@ -69,7 +69,6 @@ public class SituatedAgent extends Agent {
     }
 
     protected void doLive() {
-        getLogger().info("i live");
         AgressionMessage message = receiveMessages();
 
         if(message != null)

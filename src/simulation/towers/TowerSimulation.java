@@ -24,7 +24,7 @@ public class TowerSimulation extends AbstractAgent {
     public static final String ENV_ROLE = "environment";
     public static final String SCH_ROLE = "scheduler";
     public static final String VIEWER_ROLE = "viewer";
-    public static final int AGENT_NUMBER = 5;
+    public static final int AGENT_NUMBER = 20;
     public static final int WIDTH = 3;
     public static final int HEIGHT = AGENT_NUMBER+1;
 
